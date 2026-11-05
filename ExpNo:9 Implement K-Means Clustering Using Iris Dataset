@@ -146,5 +146,4 @@ Number of Samples in Each Cluster:
 Cluster 0 : 50 samples
 Cluster 1 : 50 samples
 Cluster 2 : 50 samples
-6. Result
-Thus, the K-Means clustering algorithm was successfully implemented using the Iris dataset. The 150 Iris samples were grouped into three clusters based on their feature similarity, and the clustering performance was evaluated using the Silhouette Score.
+ 
