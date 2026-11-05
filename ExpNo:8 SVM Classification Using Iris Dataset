@@ -138,5 +138,3 @@ Confusion Matrix
  [ 0 10  0]
  [ 0  0 10]]
 
-Result
-Thus, the SVM classification model was successfully implemented using the Iris dataset, and its performance was evaluated using Accuracy, Confusion Matrix, Precision, Recall, and F1-Score.
